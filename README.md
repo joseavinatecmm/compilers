@@ -2,4 +2,4 @@
 
 + dfas for validating: 
     - Alphabetic expr. 
-    - Mumerical expr. 
+    - Numerical expr. 
