@@ -1,3 +1,5 @@
 # Compilers
 
-+ dfas: validating alphabetic and numerical expressions. alphabetic and numerical expressions.   
++ dfas for validating: 
+    - Alphabetic expr. 
+    - Mumerical expr. 
